@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Organizo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="opendrawer">Open</string>
+    <string name="closedrawer">Close</string>
+    <string name="notes">Notes</string>
+    <string name="checklists">Checklists</string>
+    <string name="reminders">Reminders</string>
+
+    <string name="no_notes">No Notes</string>
+    <string name="menu_insert">Add Note</string>
+    <string name="menu_delete">Delete Note</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="ok_text">Okay</string>
+
+    <string name="button">Add</string>
+    <string name="menu_todo_delete">Delete Task</string>
+    <string name="no_checklists">No Checklists</string>
+
+
+    <string name="edit_reminder_title">Task Reminder - Edit</string>
+    <string name="no_reminders">No Reminders Yet</string>
+    <string name="menu_insert_reminder">Add Reminder</string>
+    <string name="menu_delete_reminder">Delete Reminder</string>
+    <string name="menu_settings">Settings</string>
+    <string name="edit_reminder">Edit Reminder</string>
+    <string name="date">Reminder Date</string>
+    <string name="time">Reminder Time</string>
+
+    <!-- Toasts -->
+    <string name="task_saved_message">Task has been saved</string>
+
+    <!-- Notification Bar -->
+    <string name="notify_new_task_message">A task needs to be reviewed!</string>
+    <string name="notify_new_task_title">Task Reminder!</string>
+
+    <!-- Preferences -->
+    <string name="pref_category_task_defaults_key">task_default_category</string>
+    <string name="pref_category_task_defaults_title">Task Title Default</string>
+    <string name="pref_task_title_key">default_reminder_title</string>
+    <string name="pref_task_title_dialog_title">Default Reminder Title</string>
+    <string name="pref_task_title_message">The default title for a reminder.</string>
+    <string name="pref_task_title_summary">Default title for reminders.</string>
+    <string name="pref_task_title_title">Default Reminder Title</string>
+
+    <string name="pref_category_datetime_key">date_time_default_category</string>
+    <string name="pref_category_datetime_title">Date Time Defaults</string>
+    <string name="pref_default_time_from_now_key">time_from_now_default</string>
+    <string name="pref_default_time_from_now_dialog_title">Time From Now</string>
+    <string name="pref_default_time_from_now_message">The default time from now that a new reminder should be set to.</string>
+    <string name="pref_default_time_from_now_summary">Sets the default time for a reminder.</string>
+    <string name="pref_default_time_from_now_title">Default Reminder Time</string>
+
+
+</resources>
